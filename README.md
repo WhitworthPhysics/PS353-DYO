@@ -1,1 +1,1 @@
-# PS353-DYO
+# Advanced Dynamics --- Design Your Own Experiment
