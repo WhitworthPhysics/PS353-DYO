@@ -1,1 +1,1 @@
-# Advanced Dynamics --- Design Your Own Experiment
+# Advanced Dynamics - Design Your Own Experiment
